@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JogoDaVelha", "JogoDaVelha\JogoDaVelha.csproj", "{38B3F6B8-12C2-4831-ABFF-405D88A66951}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JogoDaVelhaWF", "JogoDaVelhaWF\JogoDaVelhaWF.csproj", "{1D0AAE6F-E1E8-46BB-88B7-C4CD0E8558EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JogoDaVelhaWF", "JogoDaVelhaWF\JogoDaVelhaWF.csproj", "{1D0AAE6F-E1E8-46BB-88B7-C4CD0E8558EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
